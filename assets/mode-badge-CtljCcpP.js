@@ -1,0 +1,1 @@
+import{c as e}from"./createLucideIcon-DD2WU815.js";import{t}from"./badge-CYSXtV8O.js";var n=e();function r({mode:e}){return e===`demo`?(0,n.jsx)(t,{variant:`demo`,children:`Demo analysis`}):e===`ai`?(0,n.jsx)(t,{variant:`ai`,children:`Live model analysis`}):(0,n.jsx)(t,{variant:`guided`,children:`Guided analysis`})}export{r as t};
